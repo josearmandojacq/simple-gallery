@@ -1,0 +1,26 @@
+* {
+  margin: 0 auto;
+}
+
+body{
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#list{
+  position: absolute;
+  bottom: 10px;
+  left: 500px;
+
+}
+
+li{
+  display: inline-block;
+  width: 30px;
+  color: white;
+}
+h1{
+  text-align: center;
+  color: white;
+}
