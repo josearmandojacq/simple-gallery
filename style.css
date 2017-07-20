@@ -18,9 +18,9 @@ body{
 li{
   display: inline-block;
   width: 30px;
-  color: white;
+  color: black;
 }
 h1{
   text-align: center;
-  color: white;
+  color: black;
 }

@@ -23,8 +23,8 @@ $(document).ready(function(){
         var temp = parseInt($(this).text()) - 1;
         $h1.text(array[temp].title);
         $("body").css("background-image", "url('" + array[temp].src +"')");
-
-
+        $h1.css("color", "white");
+        $("li").css("color", "white");
       });
 
   });
